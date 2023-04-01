@@ -11,7 +11,7 @@
 - **I'm looking for help with** Internships and Opportunity and Building a coder community<br>
 - **I'm currently learning** Advance Java, Advance Python, Blockchain Development, Competitive Programming<br>
 - **Ask me about** Java, Python, DBMS, HTML, CSS, OS, Network, Security, Cyber Forencics, Ethical Hacking and other tech topics<br>
-- **Fun fact :** When in Problem, use bruteforce.
+<!-- **Fun fact :** When in Problem, use bruteforce.-->
 - Contact me at **ishitagupta5091@gmail.com** and Connect with me at **https://linktr.ee/ishitagupta09**
 
 ### 🌐 Socials:
