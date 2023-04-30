@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitagupta09&label=Profile%20views&color=0e75b6&style=flat" alt="ishitagupta09" /> </p>
 
 ### 💫 About Me:
-- **I'm currently working on** Advance Python Projects, Advance Java projects, Blockchain Development, Artificial Intelligence and Web Development<br>
+- **I'm currently working on** Advance Python Projects, Advance Java projects, Blockchain Development, Artificial Intelligence and Web Development.<br>
 - **I'm  looking to collaborate on** Open Source Project, Blockchain Projects, Web Development Projects<br>
 - **I'm looking for help with** Internships and Opportunity and Building a coder community<br>
-- **I'm currently learning** Advance Java, Advance Python, Blockchain Development, Competitive Programming<br>
+- **I'm currently learning** Advance Java, Advance Python, Blockchain Development, Competitive and Dynamic Programming<br>
 - **Ask me about** Java, Python, DBMS, HTML, CSS, OS, Network, Security, Cyber Forencics, Ethical Hacking and other tech topics<br>
-<!-- **Fun fact :** When in Problem, use bruteforce.-->
-- Contact me at **ishitagupta5091@gmail.com** and Connect with me at **https://linktr.ee/ishitagupta09**
+<!-- **Fun fact :** If it involves coffee and CODING count me in-->
+- Contact me at **ishitaguptaa5091@gmail.com** and Connect with me at **https://linktr.ee/ishitagupta09**
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ishitagupta09#5125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ishita.gupta._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishitagupta09)
